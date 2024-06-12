@@ -1,10 +1,6 @@
-- 👋 Hi, I’m TNTKongen
-- 📱  I am working on Carbocalc, a carbohydrate calculator!
-- 👀 I’m interested in AI and C++.
-- 🌱 I’m currently learning Jetpack compose and godot.
-- 📫 Reach me at carbocalcapps@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I also make roblox games!
+Hello, I'm tntkongen and I work on Carbocalc and like to:
+1. Silly stuff in python
+2. Games in godot
 
 <!---
 TNTKongen/TNTKongen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
